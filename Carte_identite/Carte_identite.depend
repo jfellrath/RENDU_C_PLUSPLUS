@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508941432 source:c:\users\johnw\documents\codeblocks\carte_identite\carte.cpp
+	"Carte.h"
+
+1508942256 c:\users\johnw\documents\codeblocks\carte_identite\carte.h
+	<iostream>
+	<string>
+
+1508942129 source:c:\users\johnw\documents\codeblocks\carte_identite\main.cpp
+	<stdio.h>
+	"Carte.h"
+
